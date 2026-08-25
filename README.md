@@ -8,7 +8,7 @@ These projects document not only how technology is configured, but also how it i
 
 ## 👨‍💻 Featured IT & Networking Projects
 
-- [NOC Operations Simulation](YOUR-GITHUB-LINK) — Physical Cisco networking lab focused on network monitoring, troubleshooting, incident response, and realistic ticket workflows.
+- [NOC Operations Simulation](https://github.com/MarcusAllenYoung/NOC-Operations-Simulation/tree/main) — Physical Cisco networking lab focused on network monitoring, troubleshooting, incident response, and realistic ticket workflows.
 
 ## 📜 Certifications
 
