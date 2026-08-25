@@ -6,20 +6,9 @@ I’m building hands-on experience through projects focused on networking, troub
 
 These projects document not only how technology is configured, but also how it is tested, monitored, troubleshot, and supported.
 
-## 🛠️ Featured IT & Networking Projects
+## 👨‍💻 Featured IT & Networking Projects
 
-### 🌐 [NOC Operations Simulation](YOUR-GITHUB-LINK)
-
-A physical networking lab built using Cisco routing and switching equipment to practice the responsibilities and workflows found in a Network Operations Center.
-
-The project progresses through four phases:
-
-- 🏗️ Network Foundation
-- 🌐 WAN & Internet Connectivity
-- 📊 Network Monitoring
-- 🚨 Incident Response
-
-The lab begins by establishing a known-good network and will expand to include monitoring, alerting, controlled network failures, troubleshooting, and ticket-based incident response.
+- [NOC Operations Simulation](YOUR-GITHUB-LINK) — Physical Cisco networking lab focused on network monitoring, troubleshooting, incident response, and realistic ticket workflows.
 
 ## 📜 Certifications
 
