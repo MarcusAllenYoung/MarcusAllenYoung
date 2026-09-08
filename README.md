@@ -6,7 +6,7 @@ I’m building hands-on experience through projects focused on networking, troub
 
 These projects document not only how technology is configured, but also how it is tested, monitored, troubleshot, and supported.
 
-## 👨‍💻 Featured IT & Networking Projects
+## 👨‍💻 Networking Projects
 
 - [NOC Operations Simulation](https://github.com/MarcusAllenYoung/NOC-Operations-Simulation/tree/main) Physical Cisco networking lab focused on network monitoring, troubleshooting, incident response, and realistic ticket workflows.
 
