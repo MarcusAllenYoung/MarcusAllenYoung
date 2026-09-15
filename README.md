@@ -17,7 +17,7 @@ These projects document not only how technology is configured, but also how it i
 
 ## 🎓 Education
 
-A.A.S. Network & Cloud Administration at Wake Technical Community College
+A.A.S. Network Management at Wake Technical Community College
 
 <h2> 🤝 Connect with me </h2>
 
