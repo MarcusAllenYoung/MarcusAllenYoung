@@ -6,18 +6,26 @@ I’m building hands-on experience through projects focused on networking, troub
 
 These projects document not only how technology is configured, but also how it is tested, monitored, troubleshot, and supported.
 
+---
+
 ## 👨‍💻 Networking Projects
 
 - [NOC Operations Simulation](https://github.com/MarcusAllenYoung/NOC-Operations-Simulation/tree/main) Physical Cisco networking lab focused on network monitoring, troubleshooting, incident response, and realistic ticket workflows.
+
+---
 
 ## 📜 Certifications
 
 - Cisco Certified Network Associate (CCNA)
 - Cisco Certified Support Technician: Networking (CCST)
 
+---
+
 ## 🎓 Education
 
 A.A.S. Network Management at Wake Technical Community College
+
+---
 
 <h2> 🤝 Connect with me </h2>
 
