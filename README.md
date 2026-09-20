@@ -1,4 +1,4 @@
-# Marcus Young | IT & Networking Portfolio 🌐
+# Marcus Young: Networking Portfolio 🌐
 
 Welcome to my IT and networking portfolio!
 
