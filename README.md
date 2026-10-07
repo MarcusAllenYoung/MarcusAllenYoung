@@ -11,7 +11,7 @@ These projects document not only how technology is configured, but also how it i
 ## 👨‍💻 Networking Projects
 
 - [NOC Operations Simulation](https://github.com/MarcusAllenYoung/NOC-Operations-Simulation/tree/main) Physical Cisco networking lab focused on network monitoring, troubleshooting, incident response, and realistic ticket workflows.
-- Network Troubleshooting Methodology | Cisco Packet Tracer | In Progress
+- [Network Troubleshooting Methodology](https://github.com/MarcusAllenYoung/Network-Troubleshooting-Methodology) | Cisco Packet Tracer | In Progress
 
 ---
 
