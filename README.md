@@ -17,13 +17,13 @@ These projects document not only how technology is configured, but also how it i
 - Cisco Certified Network Associate (CCNA)
 - Cisco Certified Support Technician: Networking (CCST)
 
----
+
 
 ## 🎓 Education
 
 A.A.S. Network Management at Wake Technical Community College
 
----
+
 
 <h2> 🤝 Connect with me </h2>
 
