@@ -6,7 +6,7 @@ I’m building hands-on experience through projects focused on networking, troub
 
 These projects document not only how technology is configured, but also how it is tested, monitored, troubleshot, and supported.
 
----
+
 
 ## 👨‍💻 Networking Projects
 
