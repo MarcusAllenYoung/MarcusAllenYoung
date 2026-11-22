@@ -28,6 +28,6 @@ A.A.S. Network Management at Wake Technical Community College
 
 <h2> 🤝 Connect with me </h2>
 
-<a href="www.linkedin.com/in/marcusayoung">
+<a href="https://www.linkedin.com/in/marcusayoung">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40px" />
 </a>
