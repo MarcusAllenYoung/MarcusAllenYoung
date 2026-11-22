@@ -11,6 +11,7 @@ These projects document not only how technology is configured, but also how it i
 ## 👨‍💻 Networking Projects
 
 - [NOC Operations Simulation](https://github.com/MarcusAllenYoung/NOC-Operations-Simulation/tree/main) Physical Cisco networking lab: VLANs, router-on-a-stick, DHCP, NAT/PAT, and remote monitoring with LibreNMS, SNMPv3, and syslog
+- [Network Troubleshooting Log](https://github.com/MarcusAllenYoung/Network-Troubleshooting-Log) Step-by-step write-ups from Witty Networks CCNA Packet Tracer troubleshooting labs, solved without knowing the fault in advance
 
 ## 📜 Certifications
 
